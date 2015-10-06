@@ -1,2 +1,4 @@
 I think ants are wonderful. 
-My favorite ant is the harvester ant
+My favorite ant is the harvester ant.
+
+I don't think ants are so wonderful and I certainly don't like the harvester ant.
